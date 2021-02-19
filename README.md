@@ -1,2 +1,1 @@
-# MyTestRep
-To refresh my knowledge
+https://devalexeyprotasenya.github.io/MyTestRep/cv
